@@ -12,4 +12,6 @@ cloud (private) | production | infrastructure monorepo managed with Pulumi
 [cookie](https://github.com/grackleclub/cookie) | ![image](https://img.shields.io/github/v/release/grackleclub/cookie) | go package for managing cookies
 [auth](https://github.com/grackleclub/auth) | ![image](https://img.shields.io/github/v/release/grackleclub/auth) | go package for crypto and auth
 [log](https://github.com/grackleclub/log) | ![image](https://img.shields.io/github/v/release/grackleclub/log) | wrapper for log/slog with colors and a preferred date format
+[status](https://github.com/grackleclub/status) | ![image](https://img.shields.io/github/v/release/grackleclub/status) | status page
+[stego](https://github.com/grackleclub/stego) | ![image](https://img.shields.io/github/v/release/grackleclub/stego) | simple and limited steganography tool for gifs
 
