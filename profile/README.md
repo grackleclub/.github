@@ -14,4 +14,5 @@ cloud (private) | production | infrastructure monorepo managed with Pulumi
 [log](https://github.com/grackleclub/log) | ![image](https://img.shields.io/github/v/release/grackleclub/log) | wrapper for log/slog with colors and a preferred date format
 [status](https://github.com/grackleclub/status) | ![image](https://img.shields.io/github/v/release/grackleclub/status) | status page
 [stego](https://github.com/grackleclub/stego) | ![image](https://img.shields.io/github/v/release/grackleclub/stego) | simple and limited steganography tool for gifs
+[locket](https://github.com/grackleclub/locket) | ![image](https://img.shields.io/github/v/release/grackleclub/locket) | local network secrets distribution cache integrated with 1password
 
